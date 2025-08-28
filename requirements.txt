@@ -1,0 +1,7 @@
+flask
+supabase
+langchain
+langchain-community
+tqdm
+sentence_transformers
+langchain-groq
